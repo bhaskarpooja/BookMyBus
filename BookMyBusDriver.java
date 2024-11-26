@@ -100,7 +100,7 @@ class Bus{
          bookTicket(sc,seatNumber,boarding,dest);
       }
       else{
-         System.out.println("DON'T GO HOME STAY HERE AND HAPPY DIWALI");
+         System.out.println("DON'T GO HOME");
       }
    }
 }
